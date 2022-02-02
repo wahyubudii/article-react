@@ -23,7 +23,7 @@ export default function Blog() {
   return (
     <section className="section">
       <h1 className="section-title">Blog</h1>
-      <p className="section-description">Ini adalah artikel artikelkuu yaa guys</p>
+      <p className="section-description">Anggap aja ini adalah artikel artikelkuu yaa guys</p>
       {loading ? (
         <p>Loading...</p>
       ) : (
